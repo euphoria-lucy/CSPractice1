@@ -316,6 +316,10 @@ namespace CSPractice1
                     if (dog != null) { dog.Bark(); }
                 }
             }
+
+            // #6 23-6 상속의 생성자
+            Child child = new Child();
+            Child child2 = new Child("input2");
         }
     }
 }
