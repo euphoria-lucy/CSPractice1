@@ -216,7 +216,7 @@ namespace CSPractice1
             Console.WriteLine(Product.TAX_RATIO);
             // Console.WriteLine(p1.TAX_RATIO); // JAVA는 가능하나 C#은 X
 
-            // #5 21-3. 클래스 메서드
+            // #5 22-3. 클래스 메서드
         }
     }
 }
